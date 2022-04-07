@@ -1,5 +1,4 @@
-# 
-###### Một chiếc resume được tạo ra không phải để tìm việc
+Một chiếc resume được tạo ra không phải để tìm việc
 
 Thay vào đó là gợi ý để mọi người có thể tự làm cho mình một trang web cá nhân - tất nhiên theo cá tính và sở thích của từng người. Lọt vào được mắt xanh của nhà tuyển dụng hay không thì chưa rõ nhưng những kỹ năng đạt được trong quá trình xây dựng trang cá nhân sẽ là hành trang tốt phục vụ công việc sau này
 
@@ -26,8 +25,8 @@ May mắn là chỉ có mua tên miền là tốn tiền (tất nhiên vẫn có
 
 Khi hoàn thiện khâu nội dung, chỉnh sửa hoàn chỉnh trang web cũng là lúc đưa web lên mạng để vận hành. Gợi ý đăng ký tài khoản Github để lưu trữ website (thông qua repository) và sử dụng tính năng Github Pages để public trang web sử dụng tên miền riêng
 
-**Gợi ý một số từ khóa để tìm kiếm thêm**
+**Gợi ý một số từ khóa gợi để tìm kiếm thêm**
 
-> How to use Github Desktop
-> How to use custom domain with Github Pages
-> How to manage domain with Cloudflare
+How to use Github Desktop
+How to use custom domain with Github Pages
+How to manage domain with Cloudflare
