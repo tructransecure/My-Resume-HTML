@@ -127,6 +127,7 @@ img.avatar {
 .grid-item img {
   display: block;
   width: 100%;
+  height: auto ;
   max-width: 100%;
 }
 
@@ -268,4 +269,18 @@ footer a:not(.nav-link) {
 
 .entry-title a {
   text-decoration: none;
+}
+
+/* Alight center tag cloud image */
+
+
+.tag-cloud {
+    height: auto;
+	margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.tag-cloud img {
+    max-width: 100%;
 }
